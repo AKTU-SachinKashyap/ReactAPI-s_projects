@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+}
+
+.box{
+    border: 2px solid black;
+    border-radius: 8px;
+    border-style: double;
+    height: 25px;
+    width: 250px;
+}
+
+.container{
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 25;
+    display: grid;
+    grid-template-columns: repeat(4,minmax(200px,0.5fr));
+    gap: 20px;
+    box-sizing: border-box;
+}

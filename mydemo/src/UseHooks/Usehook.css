@@ -1,0 +1,49 @@
+.Main{
+    align-items: center;
+    color: green;
+}
+
+
+.container{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(177, 16, 16);
+}
+.star-rating{
+    align-items: center;
+    margin-top: 50px;
+}
+
+.button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.on{
+    color: #c11010bf;
+}
+.off{
+    color: #ccc;
+}
+
+/* que.8 */
+/* .K{
+    width: 600px;
+    height: 800px;
+    margin-left: 200px;
+    background-color: aquamarine;
+} */
+.P{
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    width: 400px;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: #ccc;
+}
+.react-icon{
+    width:80px;
+}
